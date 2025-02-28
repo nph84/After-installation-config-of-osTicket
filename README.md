@@ -96,7 +96,7 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <img src="https://github.com/user-attachments/assets/eb9fa8fb-fbb8-41e9-bf93-ab6dbf584a46"</p>
 <img src="https://github.com/user-attachments/assets/d2bd5e3c-5764-4bca-a8fd-e8eb3fb418a8"</p>
 
-<p>Full permissions for tickets and tasks are given to this user</p>
+<p>Full permissions for tickets and tasks are given to this user. After setting permissions, click "Add Role".</p>
 <br />
 
 
