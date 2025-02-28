@@ -71,12 +71,16 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/5617bbe9-e394-4d8d-97d3-a5c1eaac2a7c"</p>
 
-<p>On the next screen, click on "Roles".</p>
+<p>On the next screen, click "Roles" to change the permissions.</p>
 <br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/81031974-4bf0-4b5b-88fe-91a007d6b720"</p>
 
+<p>On this screen, click "Add New Role"</p>
+<br />
 
 
 
