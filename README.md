@@ -84,11 +84,20 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/045acdb1-469c-4fe1-aab7-ea47ea0ccabe"</p>
+
+<p>New user role "Supreme Admin" created</p>
+<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/eb9fa8fb-fbb8-41e9-bf93-ab6dbf584a46"</p>
+<img src="https://github.com/user-attachments/assets/d2bd5e3c-5764-4bca-a8fd-e8eb3fb418a8"</p>
 
-
+<p>Full permissions for tickets and tasks are given to this user</p>
+<br />
 
 
 
