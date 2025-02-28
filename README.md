@@ -25,6 +25,8 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c"</p>
-<p>Retrieve public IP address of newly created virtual machine to connect via remote desktop</p>
+<img src="https://github.com/user-attachments/assets/a81ae03a-6dd5-45d9-930e-1fd1f9173d33""</p>
+
+<p>In your web browser, navigate to localhost/osTicket</p>
+
 <br />
