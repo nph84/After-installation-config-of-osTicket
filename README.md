@@ -78,16 +78,8 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 <p>
 <img src="https://github.com/user-attachments/assets/81031974-4bf0-4b5b-88fe-91a007d6b720"</p>
-
-<p>On this screen, click "Add New Role"</p>
-<br />
-
-
-
-<p>
 <img src="https://github.com/user-attachments/assets/045acdb1-469c-4fe1-aab7-ea47ea0ccabe"</p>
-
-<p>New user role "Supreme Admin" created</p>
+<p>On these screens, click "Add New Role"</p>
 <br />
 
 
