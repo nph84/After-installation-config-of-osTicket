@@ -42,5 +42,5 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/f5d44647-0a54-48e3-aa8e-d3ca8b15e7af"</p>
 
-<p>On this screen, sign in with your osTicket credentials</p>
+<p>On this screen, sign in with your osTicket credentials to login as an agent.</p>
 <br />
