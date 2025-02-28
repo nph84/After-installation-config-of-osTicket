@@ -44,3 +44,52 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 <p>On this screen, sign in with your osTicket credentials to login as an agent.</p>
 <br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/b3e93f39-cce2-41a7-a38e-d40d1d0e7cfc"</p>
+
+<p>System agent panel.</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/4277e5fc-b37d-4747-9c7a-86f6a1c94d5b"</p>
+
+<p>System admin panel.</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
