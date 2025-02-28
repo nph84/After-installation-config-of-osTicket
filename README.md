@@ -93,7 +93,11 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/16341a19-d90e-43ce-9aa9-7b9e8034c0b4"</p>
 
+<p> The Supreme Admin role is visible now.</p>
+<br />
 
 
 
