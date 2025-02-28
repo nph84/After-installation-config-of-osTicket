@@ -56,9 +56,15 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/4277e5fc-b37d-4747-9c7a-86f6a1c94d5b"</p>
 
-<p>System admin panel for configuring settings on the back-end.</p>
+<p>System admin panel for configuring settings on the back end.</p>
 <br />
 
+
+<p>
+<img src="https://github.com/user-attachments/assets/16122de4-f638-4b48-a877-64ec8b8cf218"</p>
+
+<p>From the admin settings screen, go to the Agents tab</p>
+<br />
 
 
 
