@@ -114,6 +114,59 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/488b2e08-3ceb-4ada-9dab-ce41e8d634a2"</p>
+
+<p>Click on "Teams" link and then the "Add New Team" button.</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
