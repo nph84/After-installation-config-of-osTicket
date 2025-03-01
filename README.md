@@ -193,6 +193,7 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 <p>
 <img src="https://github.com/user-attachments/assets/bd45714a-59b9-4f75-8d5e-7f0ea16487f8"</p>
+<img src="https://github.com/user-attachments/assets/59d5396c-7829-4db1-bb9e-32dc9d602515"</p>
 
 <p>New help topic added</p>
 <br />
