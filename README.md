@@ -173,6 +173,35 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/a2ff9990-a27d-422e-9c65-e88a2286eb09"</p>
+<img src="https://github.com/user-attachments/assets/8006e296-0b7b-4034-8589-2a3901ab1146"</p>
+  
+<p>Go to admin panel > manage > SLA.</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d3c3601f-17cf-45a0-a628-75aa558ff6ea"</p>
+
+<p>From the admin panel navigate to manage > help topics to add a new help topic.</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/bd45714a-59b9-4f75-8d5e-7f0ea16487f8"</p>
+
+<p>New help topic added</p>
+<br />
+
+
+
+
+
+
 
 
 
