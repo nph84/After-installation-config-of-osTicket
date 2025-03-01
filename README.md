@@ -103,6 +103,7 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 <p>
 <img src="https://github.com/user-attachments/assets/90d157b7-c22d-44dd-ad04-e66bcd43f8d6"</p>
+<img src="https://github.com/user-attachments/assets/af03b78c-7098-4ea1-8fcd-7616fe3ae53e"</p>
 
 <p>Click on the "Departments" link and then click on "Add New Department".</p>
 <br />
