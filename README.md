@@ -130,12 +130,29 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/15e97b90-d8ec-4a85-b96b-6955fd38d6f9"</p>
+
+<p>In the admin panel, click Settings, then Users and make sure the Registration Required box is unchecked.</p>
+<br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/52bc2b92-6796-4ade-abc3-58d31e0ba86e"</p>
+
+<p>Click the agent tab, then click add new agent.</p>
+<br />
 
 
+<p> 
+<img src="https://github.com/user-attachments/assets/6a1f99ae-4900-4849-824c-39b9fecdf677"</p>
+<p><img src="https://github.com/user-attachments/assets/561f92e6-e66c-4502-9018-6b11f4700b95"</p>
+<p><img src="https://github.com/user-attachments/assets/c09cd082-0b49-413a-8d20-344477c18339"</p>
+    
 
 
+<p>New osTicket agent creation screen (After entering the agent's name, user name, and granting an email; you must choose the access level, permissions and put the agent inside a team for the agent creation process to continue.</p>
+<br />
 
 
 
