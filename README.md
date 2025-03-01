@@ -27,14 +27,14 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/4b385489-2bf1-4b8f-84e6-a8c8fb13edb5"</p>
 
-<p>In your web browser, navigate to localhost/osTicket and click on Sign In</p>
+<p>In your web browser, navigate to localhost/osTicket and click on Sign In.</p>
 <br />
 
 
 <p>
 <img src="https://github.com/user-attachments/assets/4a1b742b-d119-4b39-90bb-bd1e22bbf314"</p>
 
-<p>Click on sign in here next to "I'm an agent"</p>
+<p>Click on sign in here next to "I'm an agent".</p>
 <br />
 
 
@@ -63,7 +63,7 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/16122de4-f638-4b48-a877-64ec8b8cf218"</p>
 
-<p>From the admin settings screen, go to the Agents tab</p>
+<p>From the admin settings screen, go to the Agents tab.</p>
 <br />
 
 
@@ -79,7 +79,7 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p>
 <img src="https://github.com/user-attachments/assets/81031974-4bf0-4b5b-88fe-91a007d6b720"</p>
 <img src="https://github.com/user-attachments/assets/045acdb1-469c-4fe1-aab7-ea47ea0ccabe"</p>
-<p>On these screens, click "Add New Role"</p>
+<p>On these screens, click "Add New Role".</p>
 <br />
 
 
@@ -101,7 +101,11 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/90d157b7-c22d-44dd-ad04-e66bcd43f8d6"</p>
 
+<p>Click on the "Departments" link and then click on "Add New Department"./p>
+<br />
 
 
 
