@@ -162,7 +162,11 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/297dcb92-e2e7-446e-b642-719b92a40d58"</p>
 
+<p>Go to the agent panel to add a new user.</p>
+<br />
 
 
 
