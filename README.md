@@ -122,7 +122,11 @@ This tutorial outlines the setup of osTicket after installation.<br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/df4dd6d8-d903-4e0d-a21b-b74669179788"</p>
 
+<p>Choose desired team name and create team.</p>
+<br />
 
 
 
