@@ -149,14 +149,16 @@ This tutorial outlines the setup of osTicket after installation.<br />
 <p><img src="https://github.com/user-attachments/assets/561f92e6-e66c-4502-9018-6b11f4700b95"</p>
 <p><img src="https://github.com/user-attachments/assets/c09cd082-0b49-413a-8d20-344477c18339"</p>
     
-
-
 <p>New osTicket agent creation screen (After entering the agent's name, user name, and granting an email; you must choose the access level, permissions and put the agent inside a team for the agent creation process to continue.</p>
 <br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/a8280aaa-60fd-426a-b272-1fc8b4906e52"</p>
 
+<p>Agents tab > Agents > click set password button and uncheck "send the agent a password reset email".</p>
+<br />
 
 
 
